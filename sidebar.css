@@ -1,0 +1,17 @@
+#controls {
+    height: 800px;
+    width: 400px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 3rem;
+    float: right;
+    color: beige;
+}
+
+#controls i {
+    padding-right: 20px;
+}
+
+#controls h3 {
+    margin-bottom: 50px;
+}
